@@ -1,16 +1,13 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+published: true
+title: Carnival
+date:2021-09-2
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+     -Teamwork
+     -Pressure
+summary: Working at different places can teach you how to work with teammates.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +17,27 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+	The carnival is a very hectic place and there are carnivals that go all around Hawaii. Especially at the 50th 
+state fair which normally has 2 to 3 times the amount of people coming together. It puts more pressure and a lot more
+teamwork needed to put out orders on time. It also makes you think when taking and serving orders because you have
+to pick the best time to send or hold someones orders. On the surface there is not much complexity or anything with 
+that much pressure, but working there for a year or 2 made me understand the real challenges that come out of the 
+carnival.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+	When I was working at the carnival I was assigned the funnel cake boot. Which is one of the busier booths to
+work at because the orders are fast because it takes very little time to deep fry the funnel cake and other items on
+the menu. This means that you have to work under a lot of pressure because of the amount of items going out. You 
+need to learn to relax because when working the front you have to take orders and send them out at the same time. 
+When sending out orders you ask people to wait on the sidewhile taking other orders, but the real problems start 
+when sending them out because you have to learn to decide when to send them out. because sometimes you can send out 
+smaller orders because a batch of funnels are coming out, but sometimes you have to wait till the full order is 
+complete instead. You need great team work because you need to know the timing of funnels coming out and if the 
+second window needs a certain order to be sent out. It seems like a never ending line because of the amount of 
+people that come to the 50th so you need to keep on working and recuperating. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+	I think it is a very good experience when working for high pressure jobs because it taught me a lot about 
+working with teammates and having to think a little more on my feet than usual. 
+	
 
 
 
