@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: https://GavinH123.github.io/images/CCpp.jpg
 title: Database/Translation
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
