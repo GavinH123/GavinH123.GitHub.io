@@ -11,10 +11,7 @@ summary: Working at different places can teach you how to work with teammates.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/funnel-cake.jpg">
 </div>
 
 The carnival is a very hectic place and there are carnivals that go all around Hawaii. Especially at the 50th 
