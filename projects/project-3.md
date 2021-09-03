@@ -11,7 +11,7 @@ labels:
 summary: Made a UI/database for ICS 212 and translated between C and C++.
 ---
 
-<img class="ui image" src="..images/database.jpg">
+<img class="ui image" src="GavinH123.github.io/images/database.jpg">
 
 In Ics212 we had to make a database that we could access through the command prompt and had to be able to save, rename and pull up information of our choosing by typing in the name of the data. This was gave me many troubles along the way to try to get it to work. The main problems I encountered in C and C++ is trying to do almost anything because of how hard the syntax is to follow. To make anything work you would have to trouble shoot over and over to make sure you get things right. There were even some very simple solutions that I would pass over because of how monotone that unix looks. 
 
