@@ -1,13 +1,14 @@
 ---
 layout: project
-type: project
-published: true
+type: project 
 title: Carnival
-date:2021-09-2
+# All dates must be YYYY-MM-DD format!
+date: 2021-09-02
 labels:
-     -Teamwork
-     -Pressure
-summary: Working at different places can teach you how to work with teammates.
+  - Teamwork
+  - High pressure
+  - Problem solving
+summary: Working at high pressuring jobs could help with problem solving and work on team building.
 ---
 
 <div class="ui small rounded images">
