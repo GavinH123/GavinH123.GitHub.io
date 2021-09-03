@@ -12,7 +12,7 @@ summary: Working at high pressuring jobs could help with problem solving and wor
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/funel_cake.jpg.jpg" align="center">
+  <img class="ui align="center" image" src="../images/funel_cake.jpg.jpg" >
 </div>
 
 The carnival is a very hectic place and there are carnivals that go all around Hawaii. Especially at the 50th 
