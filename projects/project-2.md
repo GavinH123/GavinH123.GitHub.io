@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: "https://GavinH123.github.io/images/Teaching.jpg"
 title: Teaching
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
