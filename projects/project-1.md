@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project 
+image: images/algorithms.jpg
 title: Carnival
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
