@@ -12,7 +12,7 @@ labels:
 summary: Teaching at an Elementary school
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/images.jpg">
 
 While working at as a assistant in helping kids to learn during a summer school program it taught me quite a bit about how to engage people in learning and helping people to progress in their certain subject. During the summer I assisted second graders to learn to read, write and also a little bit of science. The material that they had to learn was not complicated but it still needed to be reinforced on several ocassions and at times it was a struggle to get them to want to learn things. I was in charge of when to make them move to the next level of material. I also had to work with the teacher to organize the class.  
 
@@ -22,4 +22,4 @@ There were many ups and downs and I had to learn to understand how others work a
 
 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+
