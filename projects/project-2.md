@@ -2,24 +2,24 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Teaching
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-09-02
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Learning
+  - Patience
+  - Management
+summary: Teaching at an Elementary school
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+While working at as a assistant in helping kids to learn during a summer school program it taught me quite a bit about how to engage people in learning and helping people to progress in their certain subject. During the summer I assisted second graders to learn to read, write and also a little bit of science. The material that they had to learn was not complicated but it still needed to be reinforced on several ocassions and at times it was a struggle to get them to want to learn things. I was in charge of when to make them move to the next level of material. I also had to work with the teacher to organize the class.  
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+There were many ups and downs and I had to learn to understand how others work and how to get students to work in groups as well. At certain times there would be situations where they would not want to work in a group and I would have to decide who would work with who to give their best results. This helped me to understand what type of people to work together and how to group people correctly to get results. In other parts of the class I would have to learn to adjust to their learning styles to get them to work effectively. The last point I would like to make is working with the teachers, working with the teachers helped develope my professional attitude towards coworkers in a field that you have to always try to perform as best as you can because the children are always watching and picking up things from you. This job helped me to understand how to manage and act professional in a work environment.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+
+
+
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
