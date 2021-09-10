@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/CCpp.png
+image: images/CCpp.png
 title: Database/Translation
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
