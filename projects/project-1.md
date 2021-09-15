@@ -20,7 +20,7 @@ summary: Working at high pressuring jobs could help with problem solving and wor
 </div>
 
 The carnival is a very hectic place and there are carnivals that go all around Hawaii. Especially at the 50th 
-state fair which normally has 2 to 3 times the amount of people coming together. It puts more pressure and a lot more
+state fair which normally has twice the amount of people coming together. It puts more pressure and a lot more
 teamwork needed to put out orders on time. It also makes you think when taking and serving orders because you have
 to pick the best time to send or hold someones orders. On the surface there is not much complexity or anything with 
 that much pressure, but working there for a year or 2 made me understand the real challenges that come out of the 
