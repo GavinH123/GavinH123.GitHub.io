@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project 
-image: images/knack.jpg
+image: images/knack.png
 title: Knacks
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
@@ -14,7 +14,7 @@ summary: Real experience in coding project, with team members.
 
 <div class="ui small rounded images">
 	
-  <img  class="ui image" src="../images/knack.jpg" >
+  <img  class="ui image" src="../images/knack.png" >
 
 
 </div>
