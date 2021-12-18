@@ -1,45 +1,26 @@
 ---
 layout: project
 type: project 
-image: images/algorithm.jpg
-title: Carnival
+image: images/knack.jpg
+title: Knacks
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-02
+date: 2021-12-17
 labels:
   - Teamwork
-  - High pressure
-  - Problem solving
-summary: Working at high pressuring jobs could help with problem solving and work on team building.
+  - Planning
+  -Application
+summary: Real experience in coding project, with team members. 
 ---
 
 <div class="ui small rounded images">
 	
-  <img  class="ui image" src="../images/funel_cake.jpg.jpg" >
+  <img  class="ui image" src="../images/knack.jpg" >
 
 
 </div>
 
-The carnival is a very hectic place and there are carnivals that go all around Hawaii. Especially at the 50th 
-state fair which normally has twice the amount of people coming together. It puts more pressure and a lot more
-teamwork needed to put out orders on time. It also makes you think when taking and serving orders because you have
-to pick the best time to send or hold someones orders. On the surface there is not much complexity or anything with 
-that much pressure, but working there for a year or 2 made me understand the real challenges that come out of the 
-carnival.
-
-When I was working at the carnival I was assigned the funnel cake boot. Which is one of the busier booths to
-work at because the orders are fast because it takes very little time to deep fry the funnel cake and other items on
-the menu. This means that you have to work under a lot of pressure because of the amount of items going out. You 
-need to learn to relax because when working the front you have to take orders and send them out at the same time. 
-When sending out orders you ask people to wait on the sidewhile taking other orders, but the real problems start 
-when sending them out because you have to learn to decide when to send them out. because sometimes you can send out 
-smaller orders because a batch of funnels are coming out, but sometimes you have to wait till the full order is 
-complete instead. You need great team work because you need to know the timing of funnels coming out and if the 
-second window needs a certain order to be sent out. It seems like a never ending line because of the amount of 
-people that come to the 50th so you need to keep on working and recuperating. 
-
-I think it is a very good experience when working for high pressure jobs because it taught me a lot about 
-working with teammates and having to think a little more on my feet than usual. 
-	
+In this project there was many places to learn and grow from. The team I was on was tasked with making an application for a web browser and it was called Knack Attack Manoa. This application was made to help people find food vendors around the UH Manoa campus and it presents users with pricing, pictures, and ingredients. This was a very interesting project because you had to figure out how to make a page for users, vendors and admins. Trying to give permissions to each level was interesting to see unfold. I was part of getting the admin page running in the beginning and had to set up what was needed for the admin side of the application. Then I had to get the vendor data from the vendors and had to find what data the vendor was gonna present. For the last portion of the project I inputed the data into a private json file because the amount of data that needed to be stored for each menu item and summary of vendor came out to be quite a bit. What I learned from the project is the skills needed to put together a website. 
+The second part was having planning and team work for the project. I learned that it is much harder to divide the teamwork up and without people having to change parts that are not part of their own section. This was a little hard to follow because we would all be in our own branches on github and I found it difficult to keep up with all the changes that were happening sometimes. There was also times where I could get help when needed from teammates which was a good thing as well because sometimes a outside perspective would help things move along quicker.This project was a great experience to have because it showed me so much of how to work when making an application with teammates that I had known nothing about. But in the end it was a fun and interesting project.  
 
 
 
